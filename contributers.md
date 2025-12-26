@@ -15,6 +15,7 @@
 | Mohan Kumar             | aricthecoder         | IIIT Allahabad                 |
 | Rushal Verma            | Rushalverma          | IIIT allahabad                 |
 | Avaneesh Verma          | avaneeshk2307-wq     | IIIT Allahabad                 |
+| Jatin                   | Jatin-980            | IIIT Allahabad                 |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
