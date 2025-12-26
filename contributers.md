@@ -6,6 +6,7 @@
 | Prashant Kumar Dwivedi  | dwivediprashant   | LNCT Bhopal                    | 
 | Harshvardhan            | HARSH4885-svg     | IIIT Allahabad                 | 
 | Pradip Maity            | codeboy-pro       | Haldia Institute Of Technology |
+| Hardik Singh Rana       | hardik-rana02     | IIIT Allahabad                 |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
